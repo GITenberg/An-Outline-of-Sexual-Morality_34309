@@ -1,0 +1,27 @@
+_repo: An-Outline-of-Sexual-Morality_34309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingram, Kenneth
+    alias: Ingram, Archibald Kenneth
+    birthdate: 1882
+    deathdate: 1965
+    gutenberg_agent_id: '36951'
+    url: http://www.gutenberg.org/2009/agents/36951
+description: ''
+gutenberg_issued: '2010-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sexual ethics'
+title: An Outline of Sexual Morality
+url: http://www.gutenberg.org/ebooks/34309
